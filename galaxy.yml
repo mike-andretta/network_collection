@@ -1,0 +1,10 @@
+---
+namespace: network
+name: collection
+version: 1.0.0
+readme: README.md
+authors:
+    - "Mike Andretta <mike.andretta@test.com>"
+tags:
+    - network
+repository: "https://github.com/mike-andretta/network_collection"
